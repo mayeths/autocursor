@@ -2,6 +2,8 @@
 
 一个 macOS 自动点击器，用系统 Accessibility API 识别 Cursor 中明确的运行确认按钮。当前支持 `full-access` 模式。
 
+本项目源于是在某些更高级的管理员策略下，Cursor不会响应用户要求的AutoRun。
+
 ## 构建与启动
 
 ```bash
